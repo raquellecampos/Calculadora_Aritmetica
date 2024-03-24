@@ -12,3 +12,12 @@ From tkinter import ttk
 # Etapa 3
 - Dividir a janela em dois quadros e fazer algumas configurações nelas.
 Para as cores usei Color Picker, seletor de cores.
+
+# Etapa 4
+- Criar alguns botões no frame corpo
+
+# Etapa 5
+- Ajustar as configurações de cor dos botões
+
+# Etapa 6
+- criar a lógica da calculadora
