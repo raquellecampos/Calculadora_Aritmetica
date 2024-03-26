@@ -20,4 +20,4 @@ Para as cores usei Color Picker, seletor de cores.
 - Ajustar as configurações de cor dos botões
 
 # Etapa 6
-- criar a lógica da calculadora
+- criar a lógica da calculadora, definir que tipo de operações realizará com ela.
